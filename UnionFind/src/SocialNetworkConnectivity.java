@@ -17,18 +17,18 @@ import edu.princeton.cs.algs4.WeightedQuickUnionPathCompressionUF;
 /* SAMPLE DATA
  * 10 components
  * 
- 100000176 4 3
- 100000177 3 8
- 100000178 6 5
- 100000179 9 4
- 100000186 2 1
- 100000196 8 9
- 100000276 5 0
- 100000286 7 2
- 100000287 3 6
- 100000296 6 1
- 100000376 1 0
- 100000476 6 7
+ *100000176 4 3
+ *100000177 3 8
+ *100000178 6 5
+ *100000179 9 4
+ *100000186 2 1
+ *100000196 8 9
+ *100000276 5 0
+ *100000286 7 2
+ *100000287 3 6
+ *100000296 6 1
+ *100000376 1 0
+ *100000476 6 7
  */
 
 // simple straight forward implementation of the WeightedQuickUnionPathCompressionUF class
